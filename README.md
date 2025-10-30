@@ -40,10 +40,7 @@ You can view the live website here: [Live Demo](https://dynamic-selkie-d79581.ne
 
 portfolio4/
 │
-├─ index.html #Html file
-├─ about.html #Html file
-├─ projectes.html #Html file
-├─ contact.html #Html file
+├─ index.html # Main html file
 ├─ styles.css # CSS file
 ├─ script.js # JavaScript file
 ├─ images/ # Folder containing project and profile images
