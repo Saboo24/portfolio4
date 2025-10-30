@@ -40,7 +40,10 @@ You can view the live website here: [Live Demo](https://dynamic-selkie-d79581.ne
 
 portfolio4/
 │
-├─ index.html # Main HTML file
+├─ index.html #Html file
+├─ about.html #Html file
+├─ projectes.html #Html file
+├─ contact.html #Html file
 ├─ styles.css # CSS file
 ├─ script.js # JavaScript file
 ├─ images/ # Folder containing project and profile images
@@ -52,7 +55,7 @@ portfolio4/
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/Saboo24/portfolio4.git
+   git clone https://github.com/Saboo24/portfolio5.git
    ```
 2. Navigate to the project folder:
    ```bash
